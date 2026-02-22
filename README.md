@@ -26,5 +26,8 @@ pip install numpy
 Clone the Repository:
 
 Bashmprovements
-While this version covers the Forward Pass, the theoretical foundation for the Backwards Pass (Backpropagation) is documented in the project's logic to eventually allow the network to minimize error using the Delta Rule and Gradient Descent.
-  
+While this version covers the Forward Pass, the theoretical foundation for the Backwards Pass (Backpropagation) is documented in the project's logic to eventually allow the network to minimize error using the Delta Rule and Gradient Descent
+
+  <img width="573" height="352" alt="image" src="https://github.com/user-attachments/assets/359b5a5d-6523-417b-ba94-4363bcba19bd" />
+
+
